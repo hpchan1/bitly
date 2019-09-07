@@ -1,0 +1,18 @@
+h1 {
+    color: black;
+    text-align: center;
+    
+  }
+
+
+#textbox{
+    width:80%;
+    margin:10%;
+}
+
+#button1{
+    position: absolute;
+    left:50%;
+    right:50%
+}
+
